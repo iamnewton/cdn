@@ -13,6 +13,7 @@ In hopes of removing my dependency on 3rd-party services and libraries, such as 
 	- [Glennz Stuck in the Past Wallpaper (iPhone)](http://cdn.chrisopedia.me/images/stuck-in-the-past.jpg)
 - `docs/`
 	-`cheat-sheet/'
+		- [Emmet](http://cdn.chrisopedia.me/docs/cheat-sheet/emmet.md)
 		- [Git Branching Model](http://cdn.chrisopedia.me/docs/cheat-sheet/git-branching-model.pdf)
 		- [Git](http://cdn.chrisopedia.me/docs/cheat-sheet/git.png)
 		- [HTML Sectioning Flowchart](http://cdn.chrisopedia.me/docs/cheat-sheet/html-sectioning-flowchart.pdf)
