@@ -21,3 +21,6 @@ In hopes of removing my dependency on 3rd-party services and libraries, such as 
 		- [ViM](http://cdn.chrisopedia.me/docs/cheat-sheet/vim.gif)
 	- [Resume](http://cdn.chrisopedia.me/docs/resume.pdf)
 	- [LinkedIn Resume](http://cdn.chrisopedia.me/docs/linkedin.pdf)
+- `fonts/`
+	- [Glyphish](http://cdn.chrisopedia.me/fonts/glyphish.sparseimage)
+	- [Symbolicons](http://cdn.chrisopedia.me/fonts/symbolicons.sparseimage)
