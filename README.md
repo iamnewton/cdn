@@ -12,4 +12,10 @@ In hopes of removing my dependency on 3rd-party services and libraries, such as 
 	- [Ego Wallpaper (iPhone)](http://cdn.chrisopedia.me/images/ego-iphone.png)
 	- [Glennz Stuck in the Past Wallpaper (iPhone)](http://cdn.chrisopedia.me/images/stuck-in-the-past.jpg)
 - `docs/`
+	-`cheat-sheet/'
+		- [Git Branching Model](http://cdn.chrisopedia.me/docs/cheat-sheet/git-branching-model.pdf)
+		- [Git](http://cdn.chrisopedia.me/docs/cheat-sheet/git.png)
+		- [HTML Sectioning Flowchart](http://cdn.chrisopedia.me/docs/cheat-sheet/html-sectioning-flowchart.pdf)
+		- [ReGex](http://cdn.chrisopedia.me/docs/cheat-sheet/regex.pdf)
+		- [ViM](http://cdn.chrisopedia.me/docs/cheat-sheet/vim.gif)
 	- [Resume](http://cdn.chrisopedia.me/docs/resume.png)
