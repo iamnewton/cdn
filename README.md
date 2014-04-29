@@ -5,7 +5,7 @@ In hopes of removing my dependency on 3rd-party services and libraries, such as 
 ## File Hierarchy
 
 - `images/`
-	- [Avatar (180x180)](http://chrisopedia.me/avatar-180x180)
-	- [Avatar (800x800)](http://chrisopedia.me/avatar-800x800)
+	- [Avatar (180x180)](http://cdn.chrisopedia.me/images/avatar-180x180.png)
+	- [Avatar (800x800)](http://cdn.chrisopedia.me/images/avatar-800x800.png)
 - `docs/`
-	- [Resume](http://chrisopedia.me/1k7TbTU)
+	- [Resume](http://cdn.chrisopedia.me/docs/resume.png)
