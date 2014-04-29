@@ -18,4 +18,5 @@ In hopes of removing my dependency on 3rd-party services and libraries, such as 
 		- [HTML Sectioning Flowchart](http://cdn.chrisopedia.me/docs/cheat-sheet/html-sectioning-flowchart.pdf)
 		- [ReGex](http://cdn.chrisopedia.me/docs/cheat-sheet/regex.pdf)
 		- [ViM](http://cdn.chrisopedia.me/docs/cheat-sheet/vim.gif)
-	- [Resume](http://cdn.chrisopedia.me/docs/resume.png)
+	- [Resume](http://cdn.chrisopedia.me/docs/resume.pdf)
+	- [LinkedIn Resume](http://cdn.chrisopedia.me/docs/linkedin.pdf)
