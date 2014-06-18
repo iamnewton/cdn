@@ -17,6 +17,7 @@ In hopes of removing my dependency on 3rd-party services and libraries, such as 
 	- [Avatar (180x180)](http://cdn.chrisopedia.me/images/avatar-180x180.png)
 	- [Avatar (800x800)](http://cdn.chrisopedia.me/images/avatar-800x800.png)
 	- [Dodgers Logo](http://cdn.chrisopedia.me/images/dodgers.jpg)
+	- [Dotfiles Screenshot](http://cdn.chrisopedia.me/images/dotfiles-screenshot.png)
 	- [Ego Wallpaper (iPad)](http://cdn.chrisopedia.me/images/ego-ipad.png)
 	- [Ego Wallpaper (iPhone)](http://cdn.chrisopedia.me/images/ego-iphone.png)
 	- [Fixie](http://cdn.chrisopedia.me/images/fixie.psd)
