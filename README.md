@@ -31,3 +31,5 @@ In hopes of removing my dependency on 3rd-party services and libraries, such as 
 	- [Ego Wallpaper (iPhone)](http://cdn.chrisopedia.me/images/ego-iphone.png)
 	- [Fixie](http://cdn.chrisopedia.me/images/fixie.psd)
 	- [Glennz Stuck in the Past Wallpaper (iPhone)](http://cdn.chrisopedia.me/images/stuck-in-the-past.jpg)
+- `videos/`
+	- [Harlem Shake](http://cdn.chrisopedia.me/videos/harlem-shake.mov)
