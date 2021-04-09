@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>iFrame Storage Site</title>
+  </head>
+  <body>
+    <script>
+      var PERMITTED_DOMAIN = "https://languid-radical-oyster.glitch.me/";
+      /**
+       * Receiving message from other domain
+       */
+      window.addEventListener(
+        "message",
+        function(event) {
+          console.log(event);
+          if (event.origin !== PERMITTED_DOMAIN) {
+            console.log("wrong", event.origin);
+          }
+          localStorage.setItem("test", event.data);
+        },
+        false
+      );
+    </script>
+  </body
+</html>
