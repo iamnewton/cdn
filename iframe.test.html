@@ -17,6 +17,7 @@
             console.log("wrong", event.origin);
           }
           localStorage.setItem("test", event.data);
+          event.source.postMessage("hi there yourself!  the secret response " + "is: rheeeeet!", event.origin);
         },
         false
       );
