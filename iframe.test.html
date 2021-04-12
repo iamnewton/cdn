@@ -4,7 +4,9 @@
     <title>iFrame Storage Site</title>
   </head>
   <body>
-    <script>
+    <script type="module">
+      import { joinAdInterestGroup } from 'https://familiar-dynamic-temple.glitch.me/script.js';
+
       var PERMITTED_DOMAIN = "https://languid-radical-oyster.glitch.me";
       /**
        * Receiving message from other domain
@@ -17,7 +19,20 @@
             console.log("wrong", event.origin);
           }
           localStorage.setItem("test", event.data);
-          event.source.postMessage("hi there yourself!  the secret response " + "is: rheeeeet!", event.origin);
+          
+          const ig = {
+						owner: 'www.magnite.com',
+						name: 'womens-running-shoes',
+						update: true,
+					};
+					joinAdInterestGroup(ig, (30 * 86400000));
+
+          
+          // Assuming you've verified the origin of the received message (which
+          // you must do in any case), a convenient idiom for replying to a
+          // message is to call postMessage on event.source and provide
+          // event.origin as the targetOrigin.
+          // event.source.postMessage("hi there yourself!  the secret response " + "is: rheeeeet!", event.origin);
         },
         false
       );
